@@ -1,0 +1,18 @@
+Code: 403
+Error: blocked by: [FORBIDDEN/5/index read-only (api)];
+Previous Handler: Non retryable code [403] encountered.
+Previous Handler: Not a conflict response code.
+Attempts: 1
+Entry: 
+{"index":{}}
+{"key":"we1","value":"1"}
+
+Code: 403
+Error: blocked by: [FORBIDDEN/5/index read-only (api)];
+Previous Handler: Non retryable code [403] encountered.
+Previous Handler: Not a conflict response code.
+Attempts: 1
+Entry: 
+{"index":{}}
+{"key":"we2","value":"2"}
+
